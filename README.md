@@ -10,6 +10,7 @@ Here're some of the project's best features:
 
 *   [Discord Support](https://discord.gg/KrXdssuG6x)
 *   MultiGame-Support
+*   Cool UI Design Using the [Orion](https://v3rmillion.net/showthread.php?tid=1158934) Library
 
   
   
@@ -17,7 +18,10 @@ Here're some of the project's best features:
 
 Technologies used in the project:
 
-*   Lua
+*   [Lua](https://www.lua.org)
+*   [PHP](https://www.php.net)
+*   [Visual Studio Code](https://code.visualstudio.com)
+*   The [Orion](https://v3rmillion.net/showthread.php?tid=1158934) Library
 
 <h2>🛡️ License:</h2>
 
