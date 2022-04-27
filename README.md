@@ -10,6 +10,7 @@ Here're some of the project's best features:
 
 *   [Discord Support](https://discord.gg/KrXdssuG6x)
 *   MultiGame-Support
+*   Built-in anti-Afk!
 *   [website](https://tool-ware.surge.sh)
 *   Cool UI Design Using the [Orion](https://v3rmillion.net/showthread.php?tid=1166983) Library
 
