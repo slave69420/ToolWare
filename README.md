@@ -24,6 +24,7 @@ Technologies used in the project:
 *   [Lua](https://www.lua.org)
 *   [Visual Studio Code](https://code.visualstudio.com)
 *   The [Orion](https://v3rmillion.net/showthread.php?tid=1166983) Library
+*   Obfuscator??????????
 
 <h2>🛡️ License:</h2>
 
